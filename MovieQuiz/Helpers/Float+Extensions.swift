@@ -1,9 +1,4 @@
-//
-//  Float+Extensions.swift
-//  MovieQuiz
-//
-//  Created by Сергей Баскаков on 06.02.2024.
-//
+
 
 import Foundation
 

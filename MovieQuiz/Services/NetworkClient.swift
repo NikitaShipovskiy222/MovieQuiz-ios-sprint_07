@@ -1,9 +1,4 @@
-//
-//  NetworkClient.swift
-//  MovieQuiz
-//
-//  Created by Сергей Баскаков on 05.02.2024.
-//
+
 
 import Foundation
 
